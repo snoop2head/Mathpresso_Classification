@@ -1,7 +1,8 @@
 data
 __pycache__
 modules/eda_nlp
-./src/Archive
-./src/EDA.ipynb
-./src/FE.ipynb
+/src/EDA.ipynb
+/src/FE.ipynb
+/src/augment.ipynb
+/src/KoELECTRA_FE.ipynb
 Archive
