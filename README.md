@@ -1,8 +1,8 @@
 # MATHPRESSO_NLP_Project
 
-## 산학 주제
+👉 [YBIGTA-매쓰프레소 산학협력 최종 발표 PDF](./YBIGTA_매쓰프레소_몽데이크_Final.pdf)
 
-NLP 파트이며 수학 문제에 대한 데이터가 주어질 때 문제의 유형을 예측하는 Task입니다.
+수학 문제가 주어졌을 때 문제의 해당 단원을 예측하는 Classification Task입니다.
 
 **Input Example.**
 
@@ -48,10 +48,6 @@ NLP 파트이며 수학 문제에 대한 데이터가 주어질 때 문제의 �
 | 0.7349  | KoELECTRA | v1.6                  | AdamW     | Bayesian-opt          | 17    | -          | 12/04 | -   |
 | 0.6956  | KoELECTRA | v1.6                  | AdamW     | Bayesian-opt          | 17    | -          | 12/04 | -   |
 | 0.5682  | KoELECTRA | -                     | Adam      | -                     | 31    | O          | 12/01 | -   |
-
-## 발표자료
-
-👉 [YBIGTA-매쓰프레소 산학협력 최종 발표 PDF](./YBIGTA_매쓰프레소_몽데이크_Final.pdf)
 
 ## Participants
 
